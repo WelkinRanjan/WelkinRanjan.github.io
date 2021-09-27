@@ -1,0 +1,303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"count1"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"str",
+				"string\tstandard header"
+			],
+			[
+				"l",
+				"lvalue"
+			],
+			[
+				"all",
+				"all_valid_parenthesis"
+			],
+			[
+				"ma",
+				"mat_paths"
+			],
+			[
+				"print",
+				"print_subseq"
+			],
+			[
+				"min",
+				"min_index"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"te",
+				"temp2"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"sum",
+				"sum1"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"pri",
+				"prices"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"coutn",
+				"count2"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"tota",
+				"total_slice"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"to",
+				"total_ml"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+			"gcc codeforces1.cpp",
+			"cd Desktop"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aakashranjan/Desktop/untitled.html",
+		"/Users/aakashranjan/Desktop/code/bday.c",
+		"/Users/aakashranjan/Desktop/code/output.txt",
+		"/Users/aakashranjan/Desktop/code/input.txt",
+		"/Users/aakashranjan/Desktop/code/codeforces1.cpp",
+		"/Users/aakashranjan/Desktop/code/Linear_Search_By_Shalini.c",
+		"/Users/aakashranjan/Desktop/code/diwakar.java",
+		"/Users/aakashranjan/Downloads/Realtime-Emotion-Detection-master/check_one_face.py",
+		"/Users/aakashranjan/Desktop/cgl61.cpp",
+		"/Users/aakashranjan/Downloads/ques1.sol",
+		"/Users/aakashranjan/Downloads/ques2.sol",
+		"/Users/aakashranjan/Downloads/ques3.sol",
+		"/Users/aakashranjan/Downloads/ques4.sol",
+		"/Users/aakashranjan/Downloads/Assignmentqn.txt",
+		"/Users/aakashranjan/Desktop/code/gfg.cpp",
+		"/Users/aakashranjan/Desktop/Realtime-Emotion-Detection-master/videoTester.py",
+		"/Users/aakashranjan/Desktop/venv/lib/python3.9/site-packages/tensorflow/python/pywrap_tensorflow_internal.py",
+		"/Users/aakashranjan/Desktop/JUHI_Ticket.pdf",
+		"/Users/aakashranjan/Desktop/code/aggrcows.cpp",
+		"/Users/aakashranjan/Desktop/code/pattern.cpp",
+		"/Users/aakashranjan/Desktop/code/bubblesort.cpp",
+		"/Users/aakashranjan/Desktop/code/insertionsort.cpp",
+		"/Users/aakashranjan/Desktop/code/selectionsort.cpp",
+		"/Users/aakashranjan/Desktop/code/no_of_zeros.cpp",
+		"/Users/aakashranjan/Desktop/code/reverse.cpp",
+		"/Users/aakashranjan/Desktop/code/stack_trace.cpp",
+		"/Users/aakashranjan/Desktop/code/sum.cpp",
+		"/Users/aakashranjan/Library/Application Support/Sublime Text 3/Packages/User/cp.sublime-snippet",
+		"/Users/aakashranjan/Library/Application Support/Sublime Text 3/Packages/User/cp.sublime-build",
+		"/Users/aakashranjan/Coding_Practice/01.cpp"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cp.sublime-build",
+	"project": "Project.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
